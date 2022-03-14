@@ -24,9 +24,21 @@ Then we start our jupyterlab
 
 `jupyterlab()`
 
-Once we have our notebook open we can install the Plots package
+Once we have our notebook open we can install the Plots, DataFrames and CSV packages
 
 `] add Plots`
+
+`] add DataFrames`
+
+`] add CSV`
+
+`] add Measures`
+
+`] add StatsPlots`
+
+`] add StatsBase`
+
+`] add RDatasets`
 
 To quickly test if julia is working try
 
