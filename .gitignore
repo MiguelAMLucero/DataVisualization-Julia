@@ -1,3 +1,5 @@
 #packages
 /.ipynb_checkpoints
+/.vscode
 /data
+/TMP
