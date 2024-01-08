@@ -2,4 +2,6 @@
 /.ipynb_checkpoints
 /.vscode
 /data
-/TMP
+
+# Files
+.DS_Store
